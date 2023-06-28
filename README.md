@@ -8,8 +8,7 @@
  *
  * Classes:
  *   1. Contact - Represents an individual contact with attributes such as name, gender, age, phone number, and address.
- *   2. AddressBook - Manages a collection of contacts and provides operations to add, display, delete, search, modify,
- *                    and clear contacts.
+ *   2. AddressBook - Manages a collection of contacts and provides operations to add, display, delete, search, modify,and clear             contacts.
  *
  * Main Functionality:
  *   1. Adding a Contact - Allows users to add a new contact to the address book by providing the necessary details.
