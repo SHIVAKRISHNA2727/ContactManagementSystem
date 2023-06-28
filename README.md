@@ -1,11 +1,10 @@
 # ContactManagementSystem
 
 /**
- * Address Book Management System
  *
  * This program allows users to manage a digital address book by performing various operations such as adding, displaying,
  * deleting, searching, modifying, and clearing contacts. It utilizes object-oriented programming (OOP) concepts to
- * provide a modular and organized approach to address book management.
+ * provide a modular and organized approach to contact  management.
  *
  * Classes:
  *   1. Contact - Represents an individual contact with attributes such as name, gender, age, phone number, and address.
