@@ -26,12 +26,12 @@
  *
  * OOP Concepts Used:
  *   1. Classes and Objects - The program defines classes (Contact and AddressBook) to encapsulate the data and behavior
- *                           related to contacts and address books. Objects of these classes are created to manage contacts
- *                           and perform operations.
+   related to contacts and address books. Objects of these classes are created to manage contacts
+    and perform operations.
  *   2. Encapsulation - The classes encapsulate data members (attributes) and member functions (methods) to provide
- *                      abstraction and controlled access to the contact details and address book operations.
+  abstraction and controlled access to the contact details and address book operations.
  *   3. Modularity - The program is structured into classes and member functions, promoting modularity and code
- *                   organization. Each class is responsible for a specific set of tasks.
+   organization. Each class is responsible for a specific set of tasks.
  *
  * Author:
  *   ShivaKrishna
